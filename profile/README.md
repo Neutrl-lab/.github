@@ -1,8 +1,35 @@
-# Hi there, this is Neutrl-lab 👋
+<span align="center">
+  <p align="center">
+    <a href="https://neutrl.fi">
+      <img alt="Neutrl" src="https://github.com/Neutrl-lab/neutrl-brand/blob/main/logo/png/neutrl-logo-light.png" width="120">
+    </a>
+  </p>
 
-> Neutrl-lab is building [Neutrl.fi](https://www.neutrl.fi/), the product. Neutrl is a high-yield synthetic dollar, leveraging OTC arbitrage strategies across altcoin markets for scalable, market-neutral returns.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Host+Grotesk&weight=600&size=35&duration=1000&color=E6F9E8&center=true&vCenter=true&multiline=true&width=437&height=200&lines=The+next+generation+of;crypto+native+yield)](https://git.io/typing-svg)
 
-<hr />
+---
 
-Don't want to miss out on our latest updates? Follow us on [X/Twitter](https://www.neutrl.fi/).
+![Static Badge](https://img.shields.io/badge/Follow-Neutrl-D6E438?style=for-the-badge&logo=x&logoColor=0E191A&logoSize=auto&labelColor=D6E438&color=%23D6E438&link=https%3A%2F%2Fx.com%2Fneutrl_labs)
 
+<h3>
+    Repositories Navigator
+</h3>
+
+<a href='https://neutrl.fi' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/About-Neutrl-D6E438?style=for-the-badge&label=ABOUT&labelColor=D6E438&link=https%3A%2F%2Fneutrl.fi"><img>
+</a>
+
+<table align="center">
+<tr>
+ <th>
+      <a href="https://github.com/Neutrl-lab/neutrl-brand/blob/main">
+        <img src="https://github.com/Neutrl-lab/neutrl-brand/blob/main/tokens/png/NTRL.png" width="48">
+        <br/>
+        <b>neutrl-brand</b>
+      </a>
+    </th>
+    </tr>
+<table>
+
+---
+
+</span>
