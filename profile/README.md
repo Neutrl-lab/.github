@@ -1,11 +1,11 @@
 <span align="center">
   <p align="center">
     <a href="https://neutrl.fi">
-      <img alt="Neutrl" src="https://github.com/Neutrl-lab/neutrl-brand/blob/main/logo/png/neutrl-logo-light.png" width="120">
+      <img alt="Neutrl" src="https://github.com/Neutrl-lab/neutrl-brand/blob/main/logo/png/neutrl-logo-light.png" width="200">
     </a>
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Host+Grotesk&weight=600&size=35&duration=1000&color=E6F9E8&center=true&vCenter=true&multiline=true&width=437&height=200&lines=The+next+generation+of;crypto+native+yield)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Host+Grotesk&weight=600&duration=3000&color=E6F9E8&center=true&vCenter=true&width=435&height=100&lines=The+next+generation+of+crypto+native+yield)](https://git.io/typing-svg)
 
 ---
 
@@ -14,9 +14,6 @@
 <h3>
     Repositories Navigator
 </h3>
-
-<a href='https://neutrl.fi' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/About-Neutrl-D6E438?style=for-the-badge&label=ABOUT&labelColor=D6E438&link=https%3A%2F%2Fneutrl.fi"><img>
-</a>
 
 <table align="center">
 <tr>
