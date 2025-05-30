@@ -5,7 +5,7 @@
     </a>
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Host+Grotesk&weight=600&duration=3000&color=E6F9E8&center=true&vCenter=true&width=435&height=100&lines=The+next+generation+of+crypto+native+yield)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Host+Grotesk&weight=600&duration=5000&color=E6F9E8&center=true&vCenter=true&width=435&height=100&lines=The+next+generation+of+crypto+native+yield)](https://git.io/typing-svg)
 
 ---
 
